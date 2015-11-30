@@ -1,0 +1,1 @@
+Running mnist_nn.py with the training and test images in a folder named dataset will begin classifying the data. Every two epochs, a snapshot of the current training and validation accuracy will be displayed. Close this screen to continue training. Training will by default run for 1000 iterations, but will stabalize around 20 iterations.
